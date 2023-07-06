@@ -1,74 +1,34 @@
 # Loyalty Membership Program Application
 
-This Loyalty Membership Program Application is a software system designed to manage and enhance customer loyalty programs for businesses. It provides a convenient platform for businesses to create, track, and reward customer loyalty, leading to increased customer retention and engagement. This README file provides an overview of the application and instructions for installation, configuration, and usage.
+This Loyalty Membership Program Application is a software system designed to manage and enhance customer loyalty programs for businesses. This README file provides an overview of the application and instructions for installation, configuration, and usage.
 
 ## Features
 
-- **Membership Management**: The application allows businesses to create and manage customer memberships, including personal information, preferences, and purchase history.
+- **Membership Management**: The application allows businesses to create and manage customer memberships by their personal information
 
-- **Points Tracking**: It enables tracking and accumulation of loyalty points based on customer purchases or other specified actions. Points can be customized based on business requirements.
 
-- **Rewards and Benefits**: The application facilitates the creation and management of rewards and benefits for loyal customers. Businesses can define rewards tiers, redemption options, and exclusive benefits.
+## Access the Application
 
-- **Communication**: The application provides tools to communicate with members, such as personalized offers, notifications, and newsletters, to keep customers engaged and informed.
-
-- **Analytics and Reporting**: Detailed analytics and reports are available to provide insights into customer behavior, program effectiveness, and trends. This information helps businesses make data-driven decisions to optimize their loyalty programs.
-
-## Installation
-
-To install and run the Loyalty Membership Program Application, follow these steps:
-
-1. Clone the repository:
+8. Access the Loyalty Membership Program Application in your web browser:
    ```
-   git clone https://github.com/your/repository.git
-   ```
-
-2. Navigate to the application directory:
-   ```
-   cd loyalty-membership-program
-   ```
-
-3. Install dependencies:
-   ```
-   npm install
-   ```
-
-4. Configure the application:
-   - Rename the `config.example.js` file to `config.js`.
-   - Open `config.js` and set the necessary configuration options, such as database credentials, email settings, and program parameters.
-
-5. Initialize the database:
-   ```
-   npm run db:migrate
-   ```
-
-6. Start the application:
-   ```
-   npm start
-   ```
-
-7. Access the Loyalty Membership Program Application in your web browser:
-   ```
-   http://localhost:3000
+https://ebinasony.outsystemscloud.com/LoyalityMembershipManagement/Login
    ```
 
 ## Usage
 
 Once the application is up and running, follow these steps to use the Loyalty Membership Program:
 
-1. Register as a business or log in if you already have an account.
+1. Login as a Manager or Sales Consultant
 
-2. Set up your loyalty program by defining membership levels, points system, rewards, and benefits.
+2. If Manager Use the below credentials - Username: Carl Password:12345678
 
-3. Import or add your existing customers into the application.
+3. IfS Sales Consultant use the below credentials - UserName: Phil Password:12345678
 
-4. Encourage customers to sign up for the loyalty program and start earning points.
+4. Set up your loyalty program by defining membership details of the Client  like Name , phone muber ,DOB.
 
-5. Monitor customer activity, points accumulation, and program performance through the provided analytics and reports.
+5. Encourage customers to sign up for the loyalty program and start earning points.
 
-6. Engage with customers through personalized offers, notifications, and newsletters to foster loyalty and encourage repeat business.
-
-7. Manage and update the loyalty program as needed based on customer feedback and business goals.
+9. Manage and update the loyalty program as needed based on customer feedback and business goals.
 
 ## Contributing
 
@@ -100,3 +60,4 @@ We welcome contributions to enhance the Loyalty Membership Program Application. 
 This Loyalty Membership Program Application is released under the [MIT License](LICENSE). You are free to use, modify, and distribute this software for both commercial and non-commercial purposes. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
+Email: sonyebina@gmail.com
